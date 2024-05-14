@@ -1,0 +1,4 @@
+the email sending part is not working after merging sendgrid feature. keep that in mind!
+This feature was actually used to send users welcome and reset mails based on their email address.
+When u clone, first do npm install. Then run npm start and show project in development.
+It isn't working in production due to payment stripe not supported.
